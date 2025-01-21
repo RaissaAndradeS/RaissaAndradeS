@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Olá,+meu+nome+é+Raissa+Andrade.;)](https://git.io/typing-svg)
 
 ### ✍️ - Faço Engenharia de Software pela Universidade de Brasília - UnB
-### 🎯 - Sou formada em Gestão de Tecnologia da Informação pela Universidade Paulista - Unip
-### 👩‍💻 - Estagio na área de Dados e Analytics no Ministério dos Transportes
-
 ### 💙 - Apaixonada pela TI há anos, facilidade de aprender e adaptção 
 
 ## <center> Tecnologias que mais tenho contato </center>
@@ -34,19 +31,6 @@
           
 
           
-
-<br>
-
-
-## Estou aprendendo 😎
-
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
-
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/>
 
 <br>
 
