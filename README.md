@@ -3,6 +3,7 @@
 ### ✍️ - Faço Engenharia de Software pela Universidade de Brasília - UnB
 ### 💙 - Apaixonada pela TI há anos, facilidade de aprender e adaptção 
 
+
 ## <center> Tecnologias que mais tenho contato </center>
 
 <center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
