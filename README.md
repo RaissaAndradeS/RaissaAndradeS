@@ -7,11 +7,11 @@
 
 # 👋 Sobre mim  
 
-Olá! Sou formada em **Gestão de Tecnologia da Informação** e atualmente curso **Engenharia de Software** na **UnB**. Tenho um forte interesse pela **área de dados** e experiência prática significativa nesse campo, incluindo minha passagem como estagiária no **Ministério dos Transportes**, onde trabalhei com **Power BI, SQL, Azure e Python**.  
+Olá! Sou formada em **Gestão de Tecnologia da Informação** na **Unip** e atualmente curso **Engenharia de Software** na **UnB**. Tenho um forte interesse pela **área de dados** e experiência prática significativa nesse campo, incluindo minha passagem como estagiária no **Ministério dos Transportes**, onde trabalhei com **Power BI, SQL, Azure e Python**.  
 
-Além da área de dados, também gosto bastante de **desenvolvimento de software**, com ênfase em **Python**. Possuo conhecimentos em **HTML, CSS, Markdown, Angular, FastAPI, Docker e Figma**. Também me interesso bastante por **documentação técnica**, garantindo que sistemas e processos sejam bem registrados e compreendidos.  
+Além da área de dados, gosto bastante de **desenvolvimento de software**, com ênfase em **Python**. Possuo conhecimentos em **HTML, CSS, Markdown, Angular, FastAPI, Docker e Figma**. Me interesso bastante por **documentação técnica**, garantindo que sistemas e processos sejam bem registrados e compreendidos.  
 
-Minha formação também me proporciona um bom entendimento da **gestão de TI**, com experiência em **planejamento de TI, gerenciamento de TI, modelagem de processos**, entre outros. Também tenho experiência com **metodologias ágeis**, como **Scrum, Kanban e programação em pares**, que aplico para otimizar o desenvolvimento de software e melhorar a colaboração em equipe.  
+Minha formação me proporciona um bom entendimento da **gestão de TI**, com experiência em **planejamento, gerenciamento, modelagem de processos de TI**, entre outros.  Tenho experiência com **metodologias ágeis**, como **Scrum, Kanban e programação em pares**, que aplico para otimizar o desenvolvimento de software e melhorar a colaboração em equipe.  
 
 ---
 
