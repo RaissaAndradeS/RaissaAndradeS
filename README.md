@@ -42,8 +42,8 @@ Minha formação também me proporciona um bom entendimento da **gestão de TI**
 
 ---
 
+## 📫 **Vamos nos conectar?**  
 
-📫 **Vamos nos conectar?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/raissa-andrade-b2908a1b4/)  
 
 
@@ -51,7 +51,7 @@ Minha formação também me proporciona um bom entendimento da **gestão de TI**
 <div>
     <a href="https://github.com/RaissaAndradeS">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaAndradeS&layout=compact&langs_count=7&theme=dracula"/>
-    </a> <br> <br> <br>
+    </a>  
     <a href="https://github.com/RaissaAndradeS">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaissaAndradeS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
