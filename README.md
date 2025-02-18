@@ -1,44 +1,53 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Olá,+meu+nome+é+Raissa+Andrade.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&lines=Hello,+meu+nome+é+Raissa+Andrade.;)](https://git.io/typing-svg)
 
-### ✍️ - Faço Engenharia de Software pela Universidade de Brasília - UnB
-### 💙 - Apaixonada pela TI há anos, facilidade de aprender e adaptção 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
+ 
+ <br>
 
-## <center> Tecnologias que mais tenho contato </center>
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+# 👋 Sobre mim  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+Olá! Sou formada em **Gestão de Tecnologia da Informação** e atualmente curso **Engenharia de Software** na **UnB**. Tenho um forte interesse pela **área de dados** e experiência prática significativa nesse campo, incluindo minha passagem como estagiária no **Ministério dos Transportes**, onde trabalhei com **Power BI, SQL, Azure e Python**.  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
+Além da área de dados, também gosto bastante de **desenvolvimento de software**, com ênfase em **Python**. Possuo conhecimentos em **HTML, CSS, Markdown, Angular, FastAPI, Docker e Figma**. Também me interesso bastante por **documentação técnica**, garantindo que sistemas e processos sejam bem registrados e compreendidos.  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40" height="40" />
-          
- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+Minha formação também me proporciona um bom entendimento da **gestão de TI**, com experiência em **planejamento de TI, gerenciamento de TI, modelagem de processos**, entre outros. Também tenho experiência com **metodologias ágeis**, como **Scrum, Kanban e programação em pares**, que aplico para otimizar o desenvolvimento de software e melhorar a colaboração em equipe.  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+---
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
+## 🚀 Tecnologias e Ferramentas  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+### 💻 Desenvolvimento  
+- **Linguagens**: Python, SQL, HTML, CSS, Java  
+- **Frameworks e Bibliotecas**: FastAPI, Angular  
+- **Ferramentas**: Docker, Figma, Markdown  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+### 📊 Dados  
+- **Plataformas e Ferramentas**: Power BI, Azure  
 
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />
+### 📑 Gestão, Documentação e Metodologias Ágeis  
+- **Gestão de TI**: Planejamento de TI, Modelagem de Processos, Gerenciamento de TI  
+- **Documentação**: Criação e manutenção de documentação técnica  
+- **Metodologias Ágeis**: Scrum, Kanban, Programação em Pares  
 
-<center> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+---
 
-<br>
+## 🔥 Experiência Profissional  
 
-## Fale comigo 😉
+### **Estágio - Ministério dos Transportes**  
+📌 *Período:* [Coloque aqui o período do estágio]  
+- Desenvolvimento de dashboards interativos no **Power BI**  
+- Manipulação e análise de dados utilizando **SQL** e **Python**  
+- Implementação de soluções baseadas em **Azure**  
 
-<br>
+---
 
-<div>
 
-<a href="https://www.linkedin.com/in/raissa-andrade-b2908a1b4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+📫 **Vamos nos conectar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/raissa-andrade-b2908a1b4/)  
 
-## Git Status 🤩
+
+## Git Status 
 <div>
     <a href="https://github.com/RaissaAndradeS">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaAndradeS&layout=compact&langs_count=7&theme=dracula"/>
