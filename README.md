@@ -35,7 +35,7 @@ Minha formação também me proporciona um bom entendimento da **gestão de TI**
 ## 🔥 Experiência Profissional  
 
 ### **Estágio - Ministério dos Transportes**  
-📌 *Período:* [Coloque aqui o período do estágio]  
+📌 *05/2023 a 11/2024:*   
 - Desenvolvimento de dashboards interativos no **Power BI**  
 - Manipulação e análise de dados utilizando **SQL** e **Python**  
 - Implementação de soluções baseadas em **Azure**  
