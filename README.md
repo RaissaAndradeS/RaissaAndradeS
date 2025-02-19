@@ -18,7 +18,7 @@ Minha formação me proporciona um bom entendimento da **gestão de TI**, com ex
 ## 🚀 Tecnologias e Ferramentas  
 
 ### 💻 Desenvolvimento  
-- **Linguagens**: Python, SQL, HTML, CSS, Java  
+- **Linguagens**: Python, Java, C, SQL, HTML, CSS  
 - **Frameworks e Bibliotecas**: FastAPI, Angular  
 - **Ferramentas**: Docker, Figma, Markdown  
 
